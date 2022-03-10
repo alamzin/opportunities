@@ -1,6 +1,9 @@
 # opportunities
 Возможности для журналистов
 
+## Списки
+
+- (в основном IT) [Огромный список](https://docs.google.com/spreadsheets/d/1j-Oru60-jq8IxzztKEXX90fwK6DCT4_LuTS_EMLnct8/edit#gid=0) возможностей для релокации, релокационных сообществ и людей, способных поручиться/на которых можно сослаться. См. также [пост](https://www.facebook.com/ksenia.chabanenko/posts/5316536038381226).
 
 ## Вакансии
 (проверяйте, могут устаревать)
